@@ -1,0 +1,125 @@
+@charset "utf-8";
+
+.divone{
+	margin-top:100px;
+	margin-left:700px;
+	background-color:#FFFFFF;
+	border-top-left-radius:20px;
+	border-top-right-radius:20px;
+	}
+.divtow{
+	background-color:#53D7EC;
+	margin:0px;
+	}
+body{
+	margin:0px;
+	}
+.back{
+	background-image:url(img/Annotation%202021-10-02%20164657.png);
+	background-size:cover;
+	margin:0px;
+	padding:0px;
+	height:550px;
+	}
+.border{
+	border-bottom-left-radius:20px;
+	border-bottom-right-radius:20px;
+	background-color:#FFE5FF;
+	width:450px;
+	height:500px;
+	margin-bottom:100px;
+	margin-left:700px;
+	border-width:0px;
+	border-top:3px solid #D3C4FF;
+	}
+.hone{
+	text-align:center;
+	font-family:Century Gothic;
+	}
+.pone{
+	text-align:center;
+	padding:30px;
+	color:#ACAAAF;
+	font-family:Century Gothic;
+	}
+.svgmusic{
+	margin:0px;
+	padding:30px;
+	float:left;
+	}
+.cheng{
+	background-color:#E3CAF5;
+	margin-left:47px;
+	border-radius:20px;
+	clear:both;
+    width:350px;
+	height:100px;
+	}
+.plan{
+	float:left;
+	font-size:18px;
+	margin:0px;
+	padding:20px;
+	}
+.ptow{
+	float:left;
+	font-size:18px;
+	margin:0px;
+	padding:20px;
+	padding-top:0px;
+	color:#ABA8B5
+	}
+.link{
+	float: right;
+	font-size:18px;
+	margin:0px;
+	padding-right:30px;
+	padding-top:40px;
+	margin-bottom:0px;
+	color:#0000FF;
+	}
+.link:hover{
+	color:#9276E0;
+	text-decoration:none;
+	}
+.linktow{
+	background-color:#0000ff;
+	color:#FFFFFF;
+	display:block;
+	text-align:center;
+	width:350px;
+	height:55px;
+	margin-left:45px;
+	border-radius:20px;
+	text-decoration:none;
+	}
+.linkthree{
+	color:#9B9B9B;
+	text-decoration:none;
+	text-align:center;
+	display:block;
+	width:350px;
+	height:55px;
+	margin-left:45px;
+	}
+.linktow:hover{
+	background-color:#8A47DF;
+	color:#FFFFFF;
+	display:block;
+	text-align:center;
+	width:350px;
+	height:55px;
+	margin-left:45px;
+	border-radius:20px;
+	text-decoration:none;
+	}
+.linkthree:hover{
+	color:#000000;
+	text-decoration:none;
+	text-align:center;
+	display:block;
+	width:350px;
+	height:55px;
+	margin-left:45px;
+	}
+	
